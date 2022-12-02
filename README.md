@@ -1,3 +1,12 @@
+# lack of water | کمبود آب
+
+این سایت پروژه مدرسه ما با موضوع کمبود آب است
+
+This site is our school project on water shortage
+
+[English](#lack-of-water)
+|
+[فارسی](#کمبود-آب)
 # کمبود آب
 کمبود آب یکی از مشکلات جدی ایران و دنیا است
 ## آوای نهر روان :
@@ -27,7 +36,7 @@
 
 >کنیم ارزش نعتش آشکار --- که باشند آیندگان رستگار
 
-[فایل صوتی این شعر](google.com)
+[فایل صوتی این شعر]()
 
 ## سازندگان :
 
@@ -35,3 +44,13 @@
 | --- | --- |
 |رادیرن طاهری|شاعر
 |مهیار کزازی|طراح سایت
+
+# lack of water
+Water shortage is one of the serious problems of Iran and the world
+
+## Creators :
+
+| names | duties |
+| --- | --- |
+|Radin Taheri|Poet
+|Mahyar Kazazi|Site designer
