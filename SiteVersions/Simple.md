@@ -54,7 +54,10 @@ This site is our school project on water shortage
 
 >کنیم ارزش نعتش آشکار --- که باشند آیندگان رستگار
 
-[فایل صوتی این شعر]()
+ویدیو این آوا :
+
+https://user-images.githubusercontent.com/76116528/211315542-3b7ccea3-0603-486a-87b3-d000f4af8715.mp4
+
 
 ## سازندگان :
 
