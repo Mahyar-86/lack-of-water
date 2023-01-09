@@ -55,8 +55,7 @@ This site is our school project on water shortage
 >کنیم ارزش نعتش آشکار --- که باشند آیندگان رستگار
 
 ویدیو این آوا :
-
-https://user-images.githubusercontent.com/76116528/211315542-3b7ccea3-0603-486a-87b3-d000f4af8715.mp4
+[![NahrRavan](https://res.cloudinary.com/marcomontalbano/image/upload/v1673272402/video_to_markdown/images/google-drive--1n-DpuPF6U-C5obX8z6zyZdUhB2WwfYTF-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1n-DpuPF6U-C5obX8z6zyZdUhB2WwfYTF/view?usp=sharing "NahrRavan")
 
 
 ## سازندگان :
