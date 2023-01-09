@@ -80,6 +80,34 @@ Much of Sub-Saharan Africa has economic water scarcity.
 
   [*Source*](https://en.wikipedia.org/wiki/Water_scarcity)
 
+## NahrRavan Poem :
+> In memory of the ancients of earth and time--- the sound of the flowing stream was standing
+
+> The calm voice of the rain and the river--- removes the filth from the soul and the heart
+
+>You rose from every corner of the forest---don't think about scarcity
+
+> Ares was and Karon and Zayandeh Rood--- there was never such a thing in this gate
+
+>On Arvand, Chalus, and Barhirmand--- nobd band except fish band
+
+>Courage like a tiger in the Caspian forest---don't kill anyone from the Caspian
+
+>Now, except for texts and happy images --- except for memories, names and images
+
+>Don't stay all over the Turkish land--- you seem to have turned your back on us
+
+>Caspian, a pond in the yard of the land---the Gulf of Hamcho, a river, and so on
+
+>The elder of all the rivers was home---Chu Sili stole all the rivers
+
+>Beshd Dakhmeh Karun and Zayandeh Rood--- that Hamon, Letian and Karkheh are in pain
+
+> Come to the presence of God --- from the sea and from the spring and the waterfall
+
+> Let's make the value of his speech clear --- so that the future generations will be redeemed
+
+[*Translated with Google Translate*](https://translate.google.com/)
 ## Creators :
 
 | names | duties |
