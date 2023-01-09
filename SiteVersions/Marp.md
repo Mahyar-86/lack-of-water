@@ -13,7 +13,7 @@ paginate: true
 
 This site is our school project on water shortage
 
-[English](#8)
+[English](#9)
 |
 [فارسی](#2)
 
